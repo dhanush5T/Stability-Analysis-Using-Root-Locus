@@ -1,4 +1,4 @@
-[# Stability Analysis using Root Locus
+# Stability Analysis using Root Locus
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=K/(S(S+5)(S+10)) using root locus and verify it using MATLAB. 
 ## Apparatus Required:
@@ -35,4 +35,3 @@ rlocus(sys)
 
 ## Result:
 Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is 744.551 .
-](https://github.com/dhanush5T/P-PI-and-PID-controllers/blob/main/README.md)
